@@ -8,3 +8,5 @@ I try to directly notify every contributor but if I fail and you you wish to see
 - At the end of each document you will find a link back to the original publication.
 - I avoid to add answers and followups: it's not about getting things done, but about the way people see Scribus.
 - Though, replies might get into here as contribution...
+
+Your contributions in form of pull request, tickets or by any other mean are very welcome.

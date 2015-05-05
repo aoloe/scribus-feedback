@@ -19,7 +19,7 @@ I’m about to rant, and that’s not my point because this really is a great pr
 
 Here we get into the real downside of Scribus.
 
-– Has a tendency to crash with large documents. So, if you have a 500 page book that needs to be formatted, DO NOT COPY AND PASTE because the chances are good, given the way the styles are, that you’ll lose hours of work because saving it is a bear and the thing takes forever to reload after you’ve saved and good gosh why isn’t anything moving and oh. It’s gone. <span class="wp-smiley wp-emoji wp-emoji-sad" title=":(">:(</span>
+- Has a tendency to crash with large documents. So, if you have a 500 page book that needs to be formatted, DO NOT COPY AND PASTE because the chances are good, given the way the styles are, that you’ll lose hours of work because saving it is a bear and the thing takes forever to reload after you’ve saved and good gosh why isn’t anything moving and oh. It’s gone. <span class="wp-smiley wp-emoji wp-emoji-sad" title=":(">:(</span>
 
 If you can, import.
 

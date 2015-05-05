@@ -6,14 +6,14 @@ I’m about to rant, and that’s not my point because this really is a great pr
 
 ## Pros
 
-– Beautiful PDF conversion for print. Seriously, this program makes fantastic PDFs for print when compared to the other software I’ve mentioned. Only Open/Libre Office can compare. So, you may ask, why not use them for print interiors instead of Scribus? See the next point.
-– It’s very good with layout. I switched to Scribus for Shining Armor’s print version when I found drop caps could act funny in Apache OpenOffice if there was only a one-line sentence for the first line of a chapter. In fact, the first difficult thing about this program is realizing that it’s not a word processor. Although you can add text, it’s designed to treat text as an image that gets moved around. That’s why the layouts can look so gorgeous.
-– Master Pages are the best thing since sliced bread. Once you figure out how to use them, you’ll want to turn the whole document into a series of master pages.
-– Works well with AOO and LibreOffice. It natively accepts .odt files, which means that once you’ve formatted your chapter in your word processor, it’ll go right into Scribus, styles and all. (I’d recommend, however, doing this chapter by chapter and not worrying about trying to carry headers or footers over.)
-– Styles are pretty straightforward.
-– Wide variety of fonts.
-– Color management tools including the ability to add your own colors. Very useful.
-– I really love its document manager. Much more intuitive than InDesign (I can’t believe I just called something in Scribus intuitive).
+- Beautiful PDF conversion for print. Seriously, this program makes fantastic PDFs for print when compared to the other software I’ve mentioned. Only Open/Libre Office can compare. So, you may ask, why not use them for print interiors instead of Scribus? See the next point.
+- It’s very good with layout. I switched to Scribus for Shining Armor’s print version when I found drop caps could act funny in Apache OpenOffice if there was only a one-line sentence for the first line of a chapter. In fact, the first difficult thing about this program is realizing that it’s not a word processor. Although you can add text, it’s designed to treat text as an image that gets moved around. That’s why the layouts can look so gorgeous.
+- Master Pages are the best thing since sliced bread. Once you figure out how to use them, you’ll want to turn the whole document into a series of master pages.
+- Works well with AOO and LibreOffice. It natively accepts .odt files, which means that once you’ve formatted your chapter in your word processor, it’ll go right into Scribus, styles and all. (I’d recommend, however, doing this chapter by chapter and not worrying about trying to carry headers or footers over.)
+- Styles are pretty straightforward.
+- Wide variety of fonts.
+- Color management tools including the ability to add your own colors. Very useful.
+- I really love its document manager. Much more intuitive than InDesign (I can’t believe I just called something in Scribus intuitive).
 
 ## Cons
 
@@ -23,11 +23,11 @@ Here we get into the real downside of Scribus.
 
 If you can, import.
 
-– Styles can’t be applied globally inside Scribus. In other words, if you copy and paste text, you can’t select the text inside the text box, click on the font and font size you want and change things. You have to set up the paragraph styles you’re going to use, right-click on the text box, select Edit Text, wait for the dialog box to come up, pull down the appropriate pull down selections to the left of the text inside the dialog box, one…by…one…through the whole amount of text you want to change.
+- Styles can’t be applied globally inside Scribus. In other words, if you copy and paste text, you can’t select the text inside the text box, click on the font and font size you want and change things. You have to set up the paragraph styles you’re going to use, right-click on the text box, select Edit Text, wait for the dialog box to come up, pull down the appropriate pull down selections to the left of the text inside the dialog box, one…by…one…through the whole amount of text you want to change.
 
 Again, if you can, import.
 
-– It doesn’t split books into files. Let me explain that one and why I think that’s a bad thing.
+- It doesn’t split books into files. Let me explain that one and why I think that’s a bad thing.
 
 InDesign can be used to create one long document. It can. But a better use is to divide the book into files either based on chapter or section breaks, depending on what makes the most sense. All these files are linked to a “book” within InDesign. So, for example, when I built the interior of Lady Fair (print version coming soon!) I slightly modified my front matter file, added it to the book, created the chapter files (one file for each chapter), added them, then added my back matter with whatever modifications had to be made there. I saved it, then used the commands that turned the whole thing into a single PDF file.
 
@@ -37,7 +37,7 @@ Scribus keeps things in one document. As I mentioned before, it has a tendency t
 
 One last time, if you can, import. That will help with this issue as well.
 
-– It’s difficult to figure out how to do things. Seriously. Difficult. There is _nothing_ intuitive about this program, except that one part about document creation. Have I mentioned that? I can muddle through most programs and figure them out without having to buy a guide.
+- It’s difficult to figure out how to do things. Seriously. Difficult. There is _nothing_ intuitive about this program, except that one part about document creation. Have I mentioned that? I can muddle through most programs and figure them out without having to buy a guide.
 
 Not this. I had to hunt down how to even _begin_ to use Scribus, let alone use it to create a book.
 
